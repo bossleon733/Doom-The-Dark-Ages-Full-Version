@@ -247,4 +247,4 @@ This repository serves as the official landing page for DOOM: The Dark Ages. The
 **Get the most recent version of DOOM: The Dark Ages today!**
 
 ---
-**Last updated:** 2026-10-29 01:27:48 UTC
+**Last updated:** 2026-10-29 07:53:30 UTC
